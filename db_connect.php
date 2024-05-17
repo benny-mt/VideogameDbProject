@@ -1,7 +1,7 @@
 <?php
 $servername = "localhost";
-$username = "sebastianmv";
-$password = "Alivardnas#03";
+$username = "username";
+$password = "password";
 $dbname = "S224DB_bennymt";
 
 // Create connection
